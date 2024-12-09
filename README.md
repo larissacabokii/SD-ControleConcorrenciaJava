@@ -7,3 +7,4 @@ no segundo, apenas um pode sacar 100 reais e os outros ficara sem nada, pois ent
 Já o filho 2, tem um conta separada então ele pode sacar quantos ele quiser 
 
 e no lock pode aver alterações.
+
